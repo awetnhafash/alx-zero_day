@@ -1,0 +1,1 @@
+added read me into second directory
